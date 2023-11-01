@@ -2,9 +2,8 @@
   <h1>Hello world! I'm Maxim</h1>
   <h3>Backend Developer from Russia<h3>
 </div>
-<div id="socials">
-  [![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/web.step)
-</div>
+    
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/web.step)
 
 <!--
 **InviNs1ble/InviNs1ble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
