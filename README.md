@@ -2,10 +2,9 @@
   <h1>Hello world! I'm Maxim</h1>
   <h3>Backend Developer from Russia<h3>
 </div>
-
 <div id="socials" align="center">
   <a href="https://vk.com/invins1ble">
-    <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="VK"/>
+    <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="VK Badge"/>
   </a>
 </div>
 
